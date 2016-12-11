@@ -1,7 +1,3 @@
-//tss-live
-//Andrew Lane
-//CS3210 Final - Fall 2016
-
 #include <cstdio>
 #include <iostream>
 #include <fstream>
